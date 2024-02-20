@@ -1,0 +1,6 @@
+moviepy==1.0.3
+nltk==3.8.1
+pydub==0.25.1
+streamlit==1.18.1
+torch==2.0.1+cu118
+transformers==4.37.2
